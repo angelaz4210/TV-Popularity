@@ -2,9 +2,9 @@
 There are about 4000+ rows and 16 columns. Cvt_per_day is a measure on how much a movie is consumed by the audiences per day. Higher number means the movie is more popular on our platform.
 
 The following are the descriptions of the columns:  
-<br />Video_id: A unique ID for a movie  
-<br />Cvt_per_day: Cumulated view time per day  
-<br />weighted_categorical_position: Average vertical positions on the home page that the movie was placed  
+<br />Video_id: A unique ID for a movie
+<br />Cvt_per_day: Cumulated view time per day
+<br />weighted_categorical_position: Average vertical positions on the home page that the movie was placed
 <br />weighted_horizontal_position: Average horizontal  position on the home page that the movie was places
 <br />Genres: genres of the movie
 <br />release_year: the year the movie was released
